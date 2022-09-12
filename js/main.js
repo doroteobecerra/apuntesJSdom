@@ -107,7 +107,7 @@ function mostarError(mensaje){
         error.remove()
     }, 3000);
 
-    clear()¡¡
+    clear()
 }
 
 function mostrarSucces(mensaje){
